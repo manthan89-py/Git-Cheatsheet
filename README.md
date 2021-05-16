@@ -1,6 +1,7 @@
 # Git-Cheetsheet
-### Differnet Cheatsheets for Git.
-### Thanks to All The Makers of This Cheat-Sheet 🤝❤️.
+#### Differnet Cheatsheets for Git.
+#### You can contribute other git CheatSheet if you have.
+#### Thanks to All The Makers of This Cheat-Sheet 🤝❤️.
 
 # Atlassian Git Cheat Sheet 🌟
 ### pdf : https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
