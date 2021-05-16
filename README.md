@@ -1,5 +1,5 @@
 # Git-Cheetsheet
-#### Differnet Cheatsheets for Git.
+#### Different Cheatsheets for Git.
 #### You can contribute other git CheatSheet if you have.
 #### Thanks to All The Makers of This Cheat-Sheet 🤝❤️.
 
